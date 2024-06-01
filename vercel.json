@@ -13,7 +13,7 @@
     }
   ],
   "env": {
-    "MONGO_URL": "@mongo_url",
+    "MONGO_URL": "mongodb+srv://kaifalam9580:1234@cluster0.oc7s5mm.mongodb.net/",
     "PORT": "8081"
   }
 }
